@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "fly": false,
+  "isFrozen": false,
+  "vanish": false,
+  "invulnerable": false,
+  "lastKnownName": "Pancake_doge",
+  "lastLogin": 1579684442503,
+  "lastLogout": 1579685013259,
+  "lastIP": "/111.17.31.140",
+  "firstJoin": 1577881988019,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "lastLocation": {
+    "x": 83.30000001192093,
+    "y": 74.0,
+    "z": 90.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "7ef8bfd7-8256-45e4-a271-02d0f5797d25"
+  },
+  "homes": {
+    "seaside": {
+      "x": -247.81986711369066,
+      "y": 63.0,
+      "z": 925.1301151828644,
+      "rotx": 13.65011978149414,
+      "roty": 182.043701171875,
+      "rotz": 0.0,
+      "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+    },
+    "home": {
+      "x": -245.90629988856654,
+      "y": 64.0,
+      "z": 925.3704759301088,
+      "rotx": 75.15023803710938,
+      "roty": 9.547883987426758,
+      "rotz": 0.0,
+      "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+    }
+  },
+  "notes": [],
+  "warnings": [],
+  "mail": []
+}

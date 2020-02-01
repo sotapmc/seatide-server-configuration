@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "fly": true,
+  "isFrozen": false,
+  "vanish": false,
+  "invulnerable": false,
+  "lastKnownName": "Subilan",
+  "lastLogin": 1580554769699,
+  "lastLogout": 1580552273987,
+  "lastIP": "/171.41.155.204",
+  "firstJoin": 1577883520764,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "lastLocation": {
+    "x": 14.442352958714764,
+    "y": 79.0,
+    "z": 17.762921182109572,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "7ec2f665-c89c-43b0-aae6-d3ba2f1786d1"
+  },
+  "ignoreList": [],
+  "mail": [],
+  "notes": [],
+  "warnings": [],
+  "powertools": {}
+}

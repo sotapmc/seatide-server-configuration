@@ -1,0 +1,63 @@
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: Writing to nio:/seatide/luckperms/luckperms-h2.mv.db failed; length 77824 at 118784 [1.4.199/2]" [50000-199]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.message.DbException.convert(DbException.java:347)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:90)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:2787)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:441)
+	at org.h2.mvstore.MVStore.write(MVStore.java:937)
+	at org.h2.mvstore.MVStore.storeNow(MVStore.java:1332)
+	at org.h2.mvstore.MVStore.store(MVStore.java:1190)
+	at org.h2.mvstore.MVStore.commit(MVStore.java:1166)
+	at org.h2.mvstore.MVStore.compactRewrite(MVStore.java:2169)
+	at org.h2.mvstore.MVStore.compact(MVStore.java:2041)
+	at org.h2.mvstore.db.MVTableEngine$Store.compactFile(MVTableEngine.java:360)
+	at org.h2.engine.Database.closeOpenFilesAndUnlock(Database.java:1604)
+	at org.h2.engine.Database.closeImpl(Database.java:1509)
+	at org.h2.engine.Database.close(Database.java:1417)
+	at org.h2.engine.OnExitDatabaseCloser.onShutdown(OnExitDatabaseCloser.java:85)
+	at org.h2.engine.OnExitDatabaseCloser.run(OnExitDatabaseCloser.java:114)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: Writing to nio:/seatide/luckperms/luckperms-h2.mv.db failed; length 77824 at 118784 [1.4.199/2]" [50000-199]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:502)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:427)
+	... 17 more
+Caused by: java.lang.IllegalStateException: Writing to nio:/seatide/luckperms/luckperms-h2.mv.db failed; length 77824 at 118784 [1.4.199/2]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:883)
+	at org.h2.mvstore.DataUtils.writeFully(DataUtils.java:443)
+	at org.h2.mvstore.FileStore.writeFully(FileStore.java:113)
+	at org.h2.mvstore.MVStore.write(MVStore.java:935)
+	... 11 more
+Caused by: java.io.IOException: No space left on device
+	at sun.nio.ch.FileDispatcherImpl.pwrite0(Native Method)
+	at sun.nio.ch.FileDispatcherImpl.pwrite(FileDispatcherImpl.java:66)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:89)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.FileChannelImpl.writeInternal(FileChannelImpl.java:772)
+	at sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:758)
+	at org.h2.store.fs.FileNio.write(FilePathNio.java:79)
+	at org.h2.mvstore.DataUtils.writeFully(DataUtils.java:439)
+	... 13 more
+2020-01-30 11:45:03 database: compactFile
+java.lang.IllegalStateException: Writing to nio:/seatide/luckperms/luckperms-h2.mv.db failed; length 77824 at 118784 [1.4.199/2]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:883)
+	at org.h2.mvstore.DataUtils.writeFully(DataUtils.java:443)
+	at org.h2.mvstore.FileStore.writeFully(FileStore.java:113)
+	at org.h2.mvstore.MVStore.write(MVStore.java:935)
+	at org.h2.mvstore.MVStore.storeNow(MVStore.java:1332)
+	at org.h2.mvstore.MVStore.store(MVStore.java:1190)
+	at org.h2.mvstore.MVStore.commit(MVStore.java:1166)
+	at org.h2.mvstore.MVStore.compactRewrite(MVStore.java:2169)
+	at org.h2.mvstore.MVStore.compact(MVStore.java:2041)
+	at org.h2.mvstore.db.MVTableEngine$Store.compactFile(MVTableEngine.java:360)
+	at org.h2.engine.Database.closeOpenFilesAndUnlock(Database.java:1604)
+	at org.h2.engine.Database.closeImpl(Database.java:1509)
+	at org.h2.engine.Database.close(Database.java:1417)
+	at org.h2.engine.OnExitDatabaseCloser.onShutdown(OnExitDatabaseCloser.java:85)
+	at org.h2.engine.OnExitDatabaseCloser.run(OnExitDatabaseCloser.java:114)
+Caused by: java.io.IOException: No space left on device
+	at sun.nio.ch.FileDispatcherImpl.pwrite0(Native Method)
+	at sun.nio.ch.FileDispatcherImpl.pwrite(FileDispatcherImpl.java:66)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:89)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.FileChannelImpl.writeInternal(FileChannelImpl.java:772)
+	at sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:758)
+	at org.h2.store.fs.F

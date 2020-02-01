@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "invulnerable": false,
+  "lastKnownName": "labtecxx",
+  "lastLogin": 1579524454364,
+  "lastLogout": 1579524513843,
+  "lastIP": "/119.48.202.138",
+  "firstJoin": 1578316972024,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "fly": false,
+  "isFrozen": false,
+  "lastLocation": {
+    "x": -25558.6741512301,
+    "y": 64.0,
+    "z": 24867.767278480238,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+  },
+  "homes": {
+    "home": {
+      "x": -25558.233679809,
+      "y": 64.0,
+      "z": 24873.523540307295,
+      "rotx": 32.423038482666016,
+      "roty": 299.7396545410156,
+      "rotz": 0.0,
+      "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+    }
+  },
+  "warnings": [],
+  "mail": [],
+  "notes": []
+}

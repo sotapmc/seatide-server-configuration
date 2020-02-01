@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "vanish": false,
+  "lastKnownName": "Tanker",
+  "lastLogin": 1579769978024,
+  "lastLogout": 1579770231442,
+  "lastIP": "/106.81.141.231",
+  "firstJoin": 1579077241996,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "invulnerable": false,
+  "fly": false,
+  "isFrozen": false,
+  "lastLocation": {
+    "x": -25544.60844280023,
+    "y": 64.0,
+    "z": 24864.17709343112,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+  },
+  "homes": {
+    "home": {
+      "x": -25547.862795137644,
+      "y": 68,
+      "z": 24863.979268505656,
+      "rotx": 23.292512893676758,
+      "roty": -186.5751953125,
+      "rotz": 0,
+      "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+    }
+  },
+  "notes": [],
+  "warnings": [],
+  "mail": [],
+  "ignoreList": []
+}

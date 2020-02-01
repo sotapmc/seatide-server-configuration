@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "fly": true,
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "lastKnownName": "QiaoL",
+  "lastLogin": 1580550246752,
+  "lastLogout": 1580550261213,
+  "lastIP": "/124.131.233.191",
+  "firstJoin": 1580265153794,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "homes": {
+    "sky": {
+      "x": 1484.925735375535,
+      "y": 56,
+      "z": -9642.237730879919,
+      "rotx": 23.85000991821289,
+      "roty": 331.7989501953125,
+      "rotz": 0,
+      "world": "2aed1e60-abbd-4550-8f0a-8842abdb1c8f"
+    },
+    "suan": {
+      "x": -27093.22936743943,
+      "y": 94,
+      "z": 23622.771877781055,
+      "rotx": 56.39999771118164,
+      "roty": -2.1680960655212402,
+      "rotz": 0,
+      "world": "2aed1e60-abbd-4550-8f0a-8842abdb1c8f"
+    }
+  },
+  "lastLocation": {
+    "x": 12.634415854558135,
+    "y": 80.03411222895937,
+    "z": 22.203527026647453,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "7ec2f665-c89c-43b0-aae6-d3ba2f1786d1"
+  },
+  "mail": [],
+  "notes": [],
+  "warnings": [],
+  "powertools": {},
+  "ignoreList": []
+}

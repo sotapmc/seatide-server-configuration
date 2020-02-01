@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "invulnerable": false,
+  "notes": [],
+  "fly": false,
+  "warnings": [],
+  "lastKnownName": "MineCommanderCN",
+  "lastLogin": 1579845982131,
+  "lastLogout": 1579846491024,
+  "lastIP": "/117.166.53.90",
+  "firstJoin": 1579828358619,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "mail": [],
+  "jailOnNextLogin": false,
+  "ignoreList": [],
+  "lastLocation": {
+    "x": 6918.928633015905,
+    "y": 65.0,
+    "z": -620.1481678445576,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+  }
+}

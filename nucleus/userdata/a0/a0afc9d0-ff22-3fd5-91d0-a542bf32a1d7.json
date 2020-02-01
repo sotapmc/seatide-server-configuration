@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "warnings": [],
+  "notes": [],
+  "lastLogin": 1580108387583,
+  "lastLogout": 1580108619017,
+  "lastIP": "/175.30.172.41",
+  "firstJoin": 1580108387583,
+  "startedFirstJoin": false,
+  "fly": false,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "lastKnownName": "DrLee_lihr",
+  "lastLocation": {
+    "x": -111.90783768360328,
+    "y": 63.0,
+    "z": 21.699999988079064,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+  },
+  "mail": [],
+  "invulnerable": false
+}

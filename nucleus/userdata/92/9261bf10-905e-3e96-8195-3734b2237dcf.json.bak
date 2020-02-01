@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "vanish": false,
+  "lastKnownName": "Engong",
+  "lastLocation": {
+    "x": -25555.5,
+    "y": 64.0,
+    "z": 24875.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+  },
+  "lastLogin": 1580440667318,
+  "lastLogout": 1580378265841,
+  "lastIP": "/113.65.193.64",
+  "firstJoin": 1579077905936,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "invulnerable": false,
+  "fly": false,
+  "isFrozen": false,
+  "homes": {
+    "home": {
+      "x": -25555.072352938252,
+      "y": 64.0,
+      "z": 24875.822869683765,
+      "rotx": -5.172990322113037,
+      "roty": 357.67120361328125,
+      "rotz": 0.0,
+      "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+    }
+  },
+  "warnings": [],
+  "notes": [],
+  "mail": []
+}

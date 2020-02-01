@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "vanish": false,
+  "lastKnownName": "Patrickn_",
+  "lastLogin": 1579518122572,
+  "lastLogout": 1579518149348,
+  "lastIP": "/112.50.83.53",
+  "firstJoin": 1579081441238,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "invulnerable": false,
+  "fly": false,
+  "isFrozen": false,
+  "lastLocation": {
+    "x": -240.5,
+    "y": 63.0,
+    "z": 78.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+  },
+  "warnings": [],
+  "mail": [],
+  "notes": []
+}

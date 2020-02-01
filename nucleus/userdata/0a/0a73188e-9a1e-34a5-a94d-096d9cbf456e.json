@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "lastKnownName": "xiuyan",
+  "lastLocation": {
+    "x": -25541.51494350058,
+    "y": 11.0,
+    "z": 24823.56332891177,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+  },
+  "lastLogin": 1579496649219,
+  "lastLogout": 1579497795042,
+  "lastIP": "/121.206.70.45",
+  "firstJoin": 1579438873770,
+  "startedFirstJoin": false,
+  "fly": false,
+  "vanish": false,
+  "isFrozen": false,
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "mail": [],
+  "warnings": [],
+  "ignoreList": [],
+  "notes": []
+}

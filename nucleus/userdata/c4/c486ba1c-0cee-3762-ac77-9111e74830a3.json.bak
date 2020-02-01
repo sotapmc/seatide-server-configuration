@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "fly": false,
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "notes": [],
+  "warnings": [],
+  "mail": [],
+  "isFrozen": false,
+  "lastKnownName": "Jacen_PVP",
+  "lastLogin": 1580365298971,
+  "lastLogout": 1580365717265,
+  "lastIP": "/114.229.36.243",
+  "firstJoin": 1580291860611,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "ignoreList": [],
+  "lastLocation": {
+    "x": 5376.048783120245,
+    "y": 19.0,
+    "z": 24551.390691241413,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "2aed1e60-abbd-4550-8f0a-8842abdb1c8f"
+  },
+  "homes": {
+    "home": {
+      "x": 5979.294864005546,
+      "y": 69.0,
+      "z": 24988.098601469213,
+      "rotx": 19.04981803894043,
+      "roty": 59.23240280151367,
+      "rotz": 0.0,
+      "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+    }
+  }
+}

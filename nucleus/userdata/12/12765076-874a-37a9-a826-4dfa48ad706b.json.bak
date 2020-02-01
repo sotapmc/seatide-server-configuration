@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "fly": false,
+  "isFrozen": false,
+  "vanish": false,
+  "invulnerable": false,
+  "lastKnownName": "Lao_Jie",
+  "lastLocation": {
+    "x": -180.63294607742765,
+    "y": 76.23699967942578,
+    "z": 296.3710002131132,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "c1d15ea5-7d16-42ff-9562-a0f20f693fa2"
+  },
+  "lastLogin": 1577884770440,
+  "lastLogout": 1577886933925,
+  "lastIP": "/112.96.170.155",
+  "firstJoin": 1577882202839,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "ignoreList": [],
+  "warnings": [],
+  "mail": [],
+  "notes": []
+}

@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "warnings": [],
+  "fly": false,
+  "mail": [],
+  "vanish": false,
+  "lastKnownName": "xiao_ding233",
+  "lastLocation": {
+    "x": -227.5,
+    "y": 65.0,
+    "z": 69.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+  },
+  "lastLogin": 1579518246633,
+  "lastLogout": 1579518262499,
+  "lastIP": "/1.193.83.69",
+  "firstJoin": 1579518246633,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "notes": [],
+  "invulnerable": false
+}

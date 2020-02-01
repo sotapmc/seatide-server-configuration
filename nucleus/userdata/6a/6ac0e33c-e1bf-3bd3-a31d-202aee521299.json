@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "invulnerable": false,
+  "fly": false,
+  "lastKnownName": "satorilong",
+  "lastLocation": {
+    "x": 822.7456433782515,
+    "y": 66.0,
+    "z": 800.2485104224384,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+  },
+  "lastLogin": 1580379911676,
+  "lastLogout": 1580379330531,
+  "lastIP": "/219.76.26.12",
+  "firstJoin": 1579839419464,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "homes": {
+    "home": {
+      "x": 817.8494659604844,
+      "y": 66,
+      "z": 808.4507709980109,
+      "rotx": 18.425073623657227,
+      "roty": -358.9302673339844,
+      "rotz": 0,
+      "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+    },
+    "hell": {
+      "x": -153.1200408725814,
+      "y": 60,
+      "z": 402.9380254712369,
+      "rotx": 5.549870014190674,
+      "roty": 258.68023681640625,
+      "rotz": 0,
+      "world": "7ef8bfd7-8256-45e4-a271-02d0f5797d25"
+    }
+  }
+}

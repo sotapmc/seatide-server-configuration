@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "fly": true,
+  "isFrozen": false,
+  "vanish": false,
+  "invulnerable": false,
+  "lastKnownName": "Sapherise",
+  "lastLocation": {
+    "x": 823.5,
+    "y": 66.0,
+    "z": 801.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+  },
+  "lastLogin": 1580220260127,
+  "lastLogout": 1580220910899,
+  "lastIP": "/123.147.250.67",
+  "firstJoin": 1577884459812,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "notes": [],
+  "warnings": [],
+  "mail": [],
+  "ignoreList": []
+}

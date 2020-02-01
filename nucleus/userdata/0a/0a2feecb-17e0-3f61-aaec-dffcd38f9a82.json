@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "vanish": false,
+  "ignoreList": [],
+  "mail": [],
+  "lastKnownName": "engong",
+  "lastLocation": {
+    "x": -236.5,
+    "y": 134.0,
+    "z": 11.5,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "31616f93-be22-4cb6-be2a-ebd2f6b84e09"
+  },
+  "lastLogin": 1579076200196,
+  "lastLogout": 1579076230823,
+  "lastIP": "/219.137.198.134",
+  "firstJoin": 1579076200196,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "notes": [],
+  "warnings": [],
+  "invulnerable": false,
+  "fly": false,
+  "isFrozen": false
+}

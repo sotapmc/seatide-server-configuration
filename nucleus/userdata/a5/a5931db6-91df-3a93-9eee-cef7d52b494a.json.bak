@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "invulnerable": false,
+  "lastKnownName": "tcool_jj",
+  "lastLocation": {
+    "x": -190.53712487222123,
+    "y": 75.0,
+    "z": 140.4045965497254,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+  },
+  "lastLogin": 1579320355021,
+  "lastLogout": 1579321643725,
+  "lastIP": "/117.136.64.104",
+  "firstJoin": 1579071788941,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "vanish": false,
+  "warnings": [],
+  "notes": [],
+  "mail": [],
+  "ignoreList": []
+}

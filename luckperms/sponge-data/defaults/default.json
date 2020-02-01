@@ -1,0 +1,15 @@
+{
+  "permissions": [
+    {
+      "context": {
+        "gp_claim": "79ea83b4-595c-44df-92e8-41331bc1a8f2"
+      },
+      "data": {
+        "griefprevention.flag.block-break": false,
+        "griefprevention.flag.block-place": false
+      }
+    }
+  ],
+  "options": [],
+  "parents": []
+}

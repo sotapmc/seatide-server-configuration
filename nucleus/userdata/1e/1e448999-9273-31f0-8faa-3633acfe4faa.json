@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "invulnerable": false,
+  "lastKnownName": "ceshi",
+  "lastLogin": 1579255200793,
+  "lastLogout": 1579255262026,
+  "lastIP": "/223.98.99.143",
+  "firstJoin": 1579064962390,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "fly": false,
+  "isFrozen": false,
+  "lastLocation": {
+    "x": 3.013036893715248,
+    "y": 64.0,
+    "z": 4.488569880180876,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9c39100f-cfbb-4e0a-bffe-4df9aeedd235"
+  },
+  "homes": {
+    "home": {
+      "x": -25558.716140582685,
+      "y": 64.0,
+      "z": 24858.915098720783,
+      "rotx": 17.357921600341797,
+      "roty": 7.29254150390625,
+      "rotz": 0.0,
+      "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+    },
+    "q1": {
+      "x": -25561.460364353763,
+      "y": 64.62000000476837,
+      "z": 24859.201854497252,
+      "rotx": 22.307846069335938,
+      "roty": 124.52197265625,
+      "rotz": 0.0,
+      "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+    },
+    "q2": {
+      "x": -23230.69999998808,
+      "y": 25.0,
+      "z": 18891.69999998808,
+      "rotx": 39.75018310546875,
+      "roty": -167.0096893310547,
+      "rotz": 0.0,
+      "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+    },
+    "q3": {
+      "x": 0.5,
+      "y": 64.0,
+      "z": 0.5,
+      "rotx": 0.0,
+      "roty": 0.0,
+      "rotz": 0.0,
+      "world": "9c39100f-cfbb-4e0a-bffe-4df9aeedd235"
+    }
+  },
+  "warnings": [],
+  "mail": [],
+  "notes": []
+}

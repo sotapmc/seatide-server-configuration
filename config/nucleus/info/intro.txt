@@ -1,0 +1,5 @@
+# 入门
+&b点击下列链接即可查看相关的帮助内容。
+
+* &a&o[colors](/info colors) &r - Minecraft 颜色代码帮助
+* &a&o[guide](/info guide) &r - 新手向导

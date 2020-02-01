@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "fly": false,
+  "isFrozen": false,
+  "vanish": false,
+  "invulnerable": false,
+  "lastKnownName": "Remind_Z",
+  "lastLogin": 1579078359366,
+  "lastLogout": 1579078401193,
+  "lastIP": "/183.131.110.115",
+  "firstJoin": 1577883374163,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "lastLocation": {
+    "x": -228.0,
+    "y": 66.0,
+    "z": 69.0,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+  },
+  "mail": [],
+  "notes": [],
+  "warnings": [],
+  "ignoreList": []
+}

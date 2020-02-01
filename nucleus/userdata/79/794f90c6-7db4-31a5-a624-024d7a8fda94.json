@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "fly": false,
+  "isFrozen": false,
+  "vanish": false,
+  "invulnerable": false,
+  "lastKnownName": "YanShuQi",
+  "lastLogin": 1579181834036,
+  "lastLogout": 1579181856730,
+  "lastIP": "/119.125.21.213",
+  "firstJoin": 1577884090521,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "lastLocation": {
+    "x": -25556.20684216462,
+    "y": 35.0,
+    "z": 24878.183571134552,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9b136376-e8fd-4b99-b8ee-43309e392cd1"
+  },
+  "notes": [],
+  "mail": [],
+  "warnings": [],
+  "ignoreList": []
+}
