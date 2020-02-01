@@ -2,7 +2,25 @@
   "permissions": [
     {
       "context": {
+        "gp_claim": "fd4c11e9-74d2-4a9c-b814-8a5902d31613"
+      },
+      "data": {
+        "griefprevention.flag.block-break": false,
+        "griefprevention.flag.block-place": false
+      }
+    },
+    {
+      "context": {
         "gp_claim": "79ea83b4-595c-44df-92e8-41331bc1a8f2"
+      },
+      "data": {
+        "griefprevention.flag.block-break": false,
+        "griefprevention.flag.block-place": false
+      }
+    },
+    {
+      "context": {
+        "gp_claim": "5cbcf4f3-27ec-4333-ace0-4d027fe08214"
       },
       "data": {
         "griefprevention.flag.block-break": false,

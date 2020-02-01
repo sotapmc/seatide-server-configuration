@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "node": {
     "5c94fc15-3e60-447a-b642-431e8815f41d": {
       "ipAddress": "171.114.240.131",
@@ -113,5 +112,6 @@
       "ipAddress": "114.229.36.243",
       "isMuted": false
     }
-  }
+  },
+  "version": 1
 }
