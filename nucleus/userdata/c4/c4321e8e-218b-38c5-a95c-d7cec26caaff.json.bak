@@ -1,0 +1,28 @@
+{
+  "isFrozen": false,
+  "invulnerable": false,
+  "lastKnownName": "sakura_ling",
+  "lastLocation": {
+    "world": "a2699eeb-83d4-45e5-8d23-608f5722089d",
+    "rotx": 0.0,
+    "rotz": 0.0,
+    "roty": 0.0,
+    "x": -253.91938767680392,
+    "y": 84.0,
+    "z": 767.3440163100147
+  },
+  "lastLogin": 1580639623837,
+  "lastLogout": 1580640749595,
+  "lastIP": "/116.9.108.93",
+  "firstJoin": 1580629297247,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "tptoggle": true,
+  "kitLastUsedTime": {},
+  "warnings": [],
+  "ignoreList": [],
+  "notes": [],
+  "mail": [],
+  "fly": false
+}

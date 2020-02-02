@@ -26,6 +26,15 @@
         "griefprevention.flag.block-break": false,
         "griefprevention.flag.block-place": false
       }
+    },
+    {
+      "context": {
+        "gp_claim": "0b2ce895-4c4b-44ce-9bda-f2b3432a09ab"
+      },
+      "data": {
+        "griefprevention.flag.block-break": false,
+        "griefprevention.flag.block-place": false
+      }
     }
   ],
   "options": [],

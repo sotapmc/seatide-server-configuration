@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "8dd9afdf-3c39-3e19-890f-509ae23db276",
+    "name": "Subilan",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

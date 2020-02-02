@@ -1,0 +1,30 @@
+{
+  "invulnerable": false,
+  "tptoggle": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "lastKnownName": "iry",
+  "lastLogin": 1580635743724,
+  "lastLogout": 1580635760849,
+  "lastIP": "/42.55.48.127",
+  "firstJoin": 1580631709697,
+  "startedFirstJoin": false,
+  "powertoolToggle": true,
+  "lastLocation": {
+    "world": "a2699eeb-83d4-45e5-8d23-608f5722089d",
+    "rotx": 0.0,
+    "rotz": 0.0,
+    "roty": 0.0,
+    "x": 13.991188174186048,
+    "y": 15.843387678425536,
+    "z": 1.4336931128927568
+  },
+  "mail": [],
+  "notes": [],
+  "kitLastUsedTime": {},
+  "warnings": [],
+  "powertools": {},
+  "ignoreList": []
+}
